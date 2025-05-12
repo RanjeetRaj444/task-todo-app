@@ -4,8 +4,8 @@
 Kazam is a comprehensive task management application designed to help users efficiently organize and track their tasks.
 
 ## Live Links
-- **Frontend**: [https://kazam-phi.vercel.app/](https://kazam-phi.vercel.app/)
-- **Backend**: [https://kazam-backend-i2rk.onrender.com](https://kazam-backend-i2rk.onrender.com)
+- **Frontend**: 
+- **Backend**: 
 
 ## Tech Stack
 ### Frontend
