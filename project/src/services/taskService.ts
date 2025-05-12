@@ -1,9 +1,8 @@
 import axios from 'axios';
-import { Task, } from '../types/Task';
 
-const API_URL = 'http://localhost:3001';
+const API_URL = 'https://task-todo-app-w5kb.onrender.com';
 
-export const fetchAllTasks = async (): Promise<Task[]> => {
+export const fetchAllTasks = async (): Promise<string[]> => {
   try {
     const response = await axios.get(`${API_URL}/allTasks`);
     return response.data.tasks;

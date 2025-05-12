@@ -1,32 +1,39 @@
 # Kazam Task Management Application
 
 ## Project Overview
+
 Kazam is a comprehensive task management application designed to help users efficiently organize and track their tasks.
 
 ## Live Links
-- **Frontend**: 
-- **Backend**: 
+
+- **Frontend**: https://jocular-puppy-64e3db.netlify.app/
+- **Backend**: https://task-todo-app-w5kb.onrender.com/allTasks
 
 ## Tech Stack
+
 ### Frontend
+
 - React
 - TypeScript
 - Tailwind CSS
 - MQTT for real-time communication
 
 ### Backend
+
 - Node.js
 - Express.js
 - MongoDB
 - Mongoose
 
 ## Features
+
 - Create, Read, Update, and Delete (CRUD) tasks
 - Real-time task synchronization
 - Responsive design
 - Intuitive user interface
 
 ## Project Structure
+
 ```
 kazam1/
 │
@@ -48,22 +55,25 @@ kazam1/
 ## Local Development
 
 ### Prerequisites
+
 - Node.js (v14 or later)
 - npm or yarn
 - MongoDB
 
 ### Frontend Setup
+
 1. Navigate to the frontend directory
 2. Install dependencies: `npm install`
 3. Start development server: `npm start`
 
 ### Backend Setup
+
 1. Navigate to the backend directory
 2. Install dependencies: `npm install`
 3. Set up environment variables
 4. Start server: `npm run dev`
 
 ## Deployment
+
 - Frontend deployed on Vercel
 - Backend deployed on Render
-
